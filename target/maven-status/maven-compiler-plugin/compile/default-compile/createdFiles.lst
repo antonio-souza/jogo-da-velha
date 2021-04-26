@@ -1,7 +1,0 @@
-br\com\aaas\jogovelha\enums\PessoaEnum.class
-br\com\aaas\jogovelha\entidade\Jogador.class
-br\com\aaas\jogovelha\util\DataUtil.class
-br\com\aaas\jogovelha\web\PrincipalMB.class
-br\com\aaas\jogovelha\entidade\Jogo.class
-br\com\aaas\jogovelha\entidade\Casa.class
-br\com\aaas\jogovelha\util\FacesUtil.class
